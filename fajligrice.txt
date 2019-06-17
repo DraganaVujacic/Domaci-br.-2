@@ -1,0 +1,12 @@
+Mega Man 2;8.10;1988;Capcom;Action
+DOTA 2;9.71;2013;Valve;Fighting Action
+Twisted Metal;9.33;1995;Playstation;Fighting
+Super Marion;8.72;1990;Cappy;Adventure
+Minecraft;7.99;2009;Lego;Puzzle
+Tomb Rider;7.66;1994;PS;Adventure Action
+SIMS 3;8.89;2009;MSC;Social
+Tetris;8.00;1989;Game Boy;Puzzle
+Fortnite;9.98;2017;MSC;Fighting Action
+Call of Duty;8.66;2007;Playstation;Fighting
+call of duty;8.66;2007;playstation;fighting
+tetris;8.00;1989;game boy;puzzle
